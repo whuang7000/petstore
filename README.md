@@ -15,4 +15,4 @@ The YAML file you guys provided (`openapi.yaml`) was missing some lines that too
 
 Finally, even though you told me that I didn't have to implement business logic, I included an in-memory database and some basic business logic for better program flow and for testing purposes.
 
-I learned a lot from doing this takehome challenge. I have a lot of experience in building REST APIs, but never directly from an OAS specification. Learning how Connexion worked was extremely rewarding! Thank you for taking the time to review my takehome challenge!
+I learned a lot from doing this takehome challenge. I have a lot of experience in building REST APIs, but never directly from an OpenAPI specification. Learning how Connexion worked was extremely rewarding! Thank you for taking the time to review my takehome challenge!
